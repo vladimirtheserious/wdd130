@@ -1,0 +1,38 @@
+body {
+    background-color: rgb(250, 159, 189);
+    }
+
+div {
+    color: black;
+    font-weight: bold;
+    padding-right: 30px;
+}
+header h1 {
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+}
+
+h4 {
+    text-align: center;
+    color: white
+}
+main p {
+    margin: 250px;
+    color: white;
+    font-size: 18pt;
+    text-align: center   
+}
+
+footer p {
+    text-align: center;
+    color: black;
+}
+
+.photo {
+    width: 150px;
+    height: 170px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
