@@ -61,16 +61,8 @@ footer {
     color: black
 }
 
-.msg h2 {
+.msg h2, .msg p {
     color: black;
-}
-
-.msg p {
-    color: black;
-}
-
-footer a {
-    color: black
 }
 
 footer a:hover {
@@ -86,6 +78,7 @@ footer a:hover {
 
 footer a {
     text-decoration: none;
+    color: black;
 }
 footer p {
     font-size: 1.2em;
