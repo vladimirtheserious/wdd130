@@ -1,0 +1,13 @@
+main {
+    padding: 0;
+    background-color: rgb(98, 96, 96);
+}
+
+.round{
+    display: inline-block;
+    border-radius: 50%;
+    width: 200px;
+    margin: 35px 90px;
+    padding: 200 20px;
+    border: 10px solid black;
+}
