@@ -232,6 +232,20 @@ nav {
     max-height: 150px;
 }
 
+/* River page */
+
+.heading {
+    display: block;
+    width: 600px;
+}
+
+.first-river {
+    float: right;
+    display: block;
+}
+
+
+
 
 @media screen and (max-width: 900px) {
     #hero, .home-grid {
