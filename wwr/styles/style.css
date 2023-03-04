@@ -235,17 +235,47 @@ nav {
 /* River page */
 
 .heading {
-    display: block;
     width: 600px;
+    font-size: 18px;
+    margin-top: 50px;
+    display: block;
+    margin-bottom: 100px;
+    margin-left: 40px;
 }
 
-.first-river {
+.first-river, .second-river, .third-river {
     float: right;
     display: block;
+    margin-right: 30px;
+    background-color: black;
+    border: 10px solid #F2A71B;
+
+    
 }
 
+.first, .second, .third {
+    margin-left: 40px;
+    margin-top: 90px;
+    font-size: 30px;
+    display: block;
+}
 
+.second{
+    display: block;
+    margin: 20px;
+    margin-right: 100px;
+}
 
+.third-picture {
+    display: block;
+    margin-top: 200px;
+}
+
+.main {
+    text-align: center;
+    border: 10px solid #F2A71B;
+    background-color: #F2A71B;
+}
 
 @media screen and (max-width: 900px) {
     #hero, .home-grid {
