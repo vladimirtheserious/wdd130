@@ -277,6 +277,14 @@ nav {
     background-color: #F2A71B;
 }
 
+.first-river {
+    width: 400px;
+}
+
+.third-river {
+    height: 300px;
+}
+
 @media screen and (max-width: 900px) {
     #hero, .home-grid {
         display: block;
