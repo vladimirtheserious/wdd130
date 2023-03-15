@@ -220,6 +220,11 @@ a.book2 {
     border-radius: 5px;
 }
 
+img.card-img {
+    height: 200px;
+    width: 200px;
+}
+
 /* page 3 */
 
 form {
@@ -312,3 +317,6 @@ button {
     font-size: 35px;
 }
 
+.hero-img1 {
+    width: 100%;
+}
